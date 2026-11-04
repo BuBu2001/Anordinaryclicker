@@ -1,0 +1,2 @@
+# Anordinaryclicker
+Кликер с уровнями
